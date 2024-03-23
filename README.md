@@ -1,2 +1,2 @@
 # Amazon-webpage-clone
-i tried my level best.
+I tried my level best.
